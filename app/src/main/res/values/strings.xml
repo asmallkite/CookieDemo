@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CookieDemo02</string>
+    <string name="title_activity_bottom_tab">BottomTabActivity</string>
+    <string name="title_home">Home</string>
+    <string name="sports">Sport</string>
+    <string name="news">News</string>
+</resources>
